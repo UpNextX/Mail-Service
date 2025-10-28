@@ -1,0 +1,5 @@
+/home/eslamtaha/Desktop/Projects/FawryProject/Mail-Service/src/main/java/org/upnext/mail_service/EmailSender.java
+/home/eslamtaha/Desktop/Projects/FawryProject/Mail-Service/src/main/java/org/upnext/mail_service/MailServiceApplication.java
+/home/eslamtaha/Desktop/Projects/FawryProject/Mail-Service/src/main/java/org/upnext/mail_service/configurations/RabbitMQConfig.java
+/home/eslamtaha/Desktop/Projects/FawryProject/Mail-Service/src/main/java/org/upnext/mail_service/events/MailListener.java
+/home/eslamtaha/Desktop/Projects/FawryProject/Mail-Service/src/main/java/org/upnext/mail_service/events/NotificationListener.java

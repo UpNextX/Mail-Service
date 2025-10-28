@@ -1,0 +1,5 @@
+org/upnext/mail_service/MailServiceApplication.class
+org/upnext/mail_service/events/NotificationListener.class
+org/upnext/mail_service/EmailSender.class
+org/upnext/mail_service/configurations/RabbitMQConfig.class
+org/upnext/mail_service/events/MailListener.class
